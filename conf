@@ -1,0 +1,3 @@
+JENKINS_URL=http://your-jenkins-server:8080
+JENKINS_USER=your-jenkins-user
+JENKINS_TOKEN=your-jenkins-api-token
